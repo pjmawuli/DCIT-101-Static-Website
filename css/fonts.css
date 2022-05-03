@@ -1,0 +1,17 @@
+/*font-family: permanentMarker*/
+@font-face {
+    font-family: permanentMarker;
+    src: url(/fonts/Permanent_Marker/PermanentMarker-Regular.ttf);
+}
+
+/*font-family: poppinslight*/
+@font-face {
+    font-family: poppinslight;
+    src: url(/fonts/Poppins/Poppins-Light.ttf);
+}
+
+/*font-family: poppinsregular*/
+@font-face {
+    font-family: poppinsregular;
+    src: url(/fonts/Poppins/Poppins-Regular.ttf);
+}
